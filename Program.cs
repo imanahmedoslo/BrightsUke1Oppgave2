@@ -11,7 +11,7 @@ namespace ConsoleApp6
         public static int i = 0;
         public static double convertRate = 2.54;
         public static double numberInput = 0;
-        public static double convertedResult = 0;
+       
         static void Main(string[] args)
         {
             convertNumbers();
